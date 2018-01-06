@@ -1,0 +1,19 @@
+HTML / CSS
+
+HTML => HyperText Markup Language
+
+Pre-requiste
+-------------
+ - Text Editor or some good HTML Editor (Notepad++, Netbeans, Dreamweaver, Eclipse, ....)
+ - Browser
+
+HTML Structure
+--------------
+<html>
+	<head></head>
+	<body></body>
+</html>
+
+Tags:
+1. p, h1-6, br, i, em, b, strong
+
